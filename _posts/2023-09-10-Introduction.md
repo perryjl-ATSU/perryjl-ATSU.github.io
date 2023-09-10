@@ -7,12 +7,6 @@ categories: media
 
 ![CQI logo](https://perryjl-ATSU.github.io/assets/Semmelweis.jpg)
 
-## Header goes here
-
-other text.
-
-[link](http://www.google.com)
-
 
 ## MathJax
 
