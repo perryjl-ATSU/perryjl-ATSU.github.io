@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Objectives logo](https://perryjl-ATSU.github.io/assets/Objectives.jpg)
+![objectives logo](https://perryjl-ATSU.github.io/assets/objectives.jpg)
 
 
 ## MathJax
