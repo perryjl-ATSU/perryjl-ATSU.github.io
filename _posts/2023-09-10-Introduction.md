@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![CQI logo](https://perryjl-ATSU.github.io/assets/Semmelweis.jpg)
+![Semmelweiss logo](https://perryjl-ATSU.github.io/assets/Semmelweis.jpg)
 
 
 ## MathJax
