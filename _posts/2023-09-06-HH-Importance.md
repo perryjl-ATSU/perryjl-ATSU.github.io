@@ -1,5 +1,5 @@
 ---
-title:  "The Importance of hand Hygiene"
+title:  "The Importance of Hand Hygiene"
 mathjax: true
 layout: post
 categories: media
