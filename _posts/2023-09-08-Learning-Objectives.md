@@ -1,5 +1,5 @@
 ---
-title:  "Learning Objectives"
+title:  "Learning Objectives That Demonstrate Understanding"
 layout: post
 ---
 
