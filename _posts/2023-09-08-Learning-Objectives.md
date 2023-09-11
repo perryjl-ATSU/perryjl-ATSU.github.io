@@ -10,7 +10,7 @@ categories: media
 
 ## MathJax
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+Demonstrate the correct way to wash hands with soap and water according to the WHO-recommended method.
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
 
@@ -60,4 +60,5 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+{% include embed.html url="https://www.youtube.com/watch?v=vdb7JzpxhYs" %}
+
