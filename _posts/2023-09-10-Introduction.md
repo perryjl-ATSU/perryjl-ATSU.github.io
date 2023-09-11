@@ -36,4 +36,4 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
-
+{% include embed.html url="https://www.youtube.com/watch?v=h8OX0FNWANM" %}
