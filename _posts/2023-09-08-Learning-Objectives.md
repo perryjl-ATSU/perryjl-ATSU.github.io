@@ -29,6 +29,8 @@ $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2
 <details>
   <summary>Click me</summary>
   
+  In this video you will observe the proper soap-and-water handwashing technique, as well as proper hand drying.
+  {% include embed.html url="https://www.youtube.com/embed/IisgnbMfKvI" %}
   ### Heading
   1. Foo
   2. Bar
