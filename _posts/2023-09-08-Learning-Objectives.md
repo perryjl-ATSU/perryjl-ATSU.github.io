@@ -20,8 +20,6 @@ Identify the 5 Moments for Hand Hygiene.
 
 Describe hand hygiene as a critical component of infection prevention and control
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
-
 
 ## Learning Activities
 
@@ -48,6 +46,30 @@ Now that you have learned about the role hand hygiene plays in limiting the spre
  
 </details>
 
+<details>
+  <summary>Cleaning Hands with Alcohol-based Hand Rub</summary>
+  
+Alcohol-based hand rub is the preferred choice for hand hygiene if hands are not visibly soiled, because ABHR is more effective in killing microorganisms than plain or antimicrobial soaps and water, and it has other big advantages. The alcohol in ABHR kills microorganisms by denaturing proteins (i.e., they dissolve some microbe components). It also has persistent activity, meaning that it takes longer for microorganisms to repopulate the hands.
+
+Hand hygiene with ABHR has advantages over hand hygiene with soap and water, including:
+
+It takes less time—only 20 to 30 seconds. In a very busy work environment, ABHR can save you time!
+ABHR can be placed directly at the point of care, making it convenient and easy to perform hand hygiene within your clinical workflow.
+Hand hygiene with ABHR does not need sinks, water, or towels—hands are air-dried.
+It is important to note that the active ingredient—alcohol—is flammable, and that you should be careful and make sure any ABHR is stored away from flames.
+ 
+</details>
+
+<details>
+  <summary>5 Moments for Hand Hygiene</summary>
+  
+  Health care workers should perform hand hygiene according to the World Health Organization’s (WHO) 5 Moments for Hand Hygiene. The WHO 5 Moments focuses on contact occurring within the patient zone during the delivery of patient care. It proposes a unified vision for all HCWs, trainers and observers to improve understanding of when to clean hands. It merges all hand hygiene indications recommended by the WHO Guidelines on Hand Hygiene in Health Care and CDC’s Guideline for Hand Hygiene in Health Care Settings into five moments when hand hygiene is required. Importantly, this user- and patient-centred approach aims for ease of use and integration into the natural workflow, which applies across a wide range of care settings and health care professions.
+  
+  ![5moments](https://perryjl-ATSU.github.io/assets/5moments.jpg)
+ 
+</details>
+
+
 ## Gists
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
@@ -64,9 +86,5 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
-## Embedded content
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/vdb7JzpxhYs" %}
 
