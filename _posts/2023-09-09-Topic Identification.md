@@ -1,6 +1,7 @@
 ---
 title:  "The Topic of Hand Hygiene"
 layout: post
+categories: media
 ---
 
 Healthcare-associated infections (HAIs) are infections that occur while receiving health care. Patients with medical devices (central lines, urinary catheters, ventilators) or who undergo surgical procedures are at risk of acquiring HAIs. HAIs  continue to be a tremendous issue today, however most HAIs are preventable. The prevention and management of HAIs has advanced greatly over the last decade due to legislative, regulatory and organizational incentives. However, these changes have not resolved the gap between evidence base and clinical practice, particularly in healthcare workers’  behavioral change. 
