@@ -67,7 +67,7 @@ Health care workers should perform hand hygiene according to the World Health Or
   
 
 <img
-  src="/path/to/img.jpg"
+  src="assets/5moments.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
