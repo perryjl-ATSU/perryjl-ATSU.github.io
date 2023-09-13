@@ -66,7 +66,11 @@ It is important to note that the active ingredient—alcohol—is flammable, and
 Health care workers should perform hand hygiene according to the World Health Organization’s (WHO) 5 Moments for Hand Hygiene. The WHO 5 Moments focuses on contact occurring within the patient zone during the delivery of patient care. It proposes a unified vision for all HCWs, trainers and observers to improve understanding of when to clean hands. It merges all hand hygiene indications recommended by the WHO Guidelines on Hand Hygiene in Health Care and CDC’s Guideline for Hand Hygiene in Health Care Settings into five moments when hand hygiene is required. Importantly, this user- and patient-centred approach aims for ease of use and integration into the natural workflow, which applies across a wide range of care settings and health care professions.
   
 
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
  
 </details>
 
