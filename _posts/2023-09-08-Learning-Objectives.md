@@ -89,7 +89,7 @@ Perform hand hygiene after glove removal. It is important to know that hand cont
   
 
 <img
-  src="https://perryjl-ATSU.github.io/assets/glove.jpg" 
+  src="https://perryjl-ATSU.github.io/assets/glove.JPG" 
   alt="Alt text"
   title="Gloved Hand"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
