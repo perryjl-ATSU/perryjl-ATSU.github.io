@@ -20,6 +20,8 @@ Identify the 5 Moments for Hand Hygiene.
 
 Describe hand hygiene as a critical component of infection prevention and control
 
+Discuss glove use and hand hygiene during patient care activities
+
 
 ## Learning Activities
 
@@ -74,6 +76,25 @@ Health care workers should perform hand hygiene according to the World Health Or
  
 </details>
 
+<details>
+  <summary>Gloves and Hand Hygiene (5 min)</summary>
+  
+Glove use is an important part of protecting hands from contamination. If an HCW is wearing gloves, it does NOT mean that hand hygiene can be skipped. In other words, glove use does NOT replace the need for hand hygiene. Considerations for hand hygiene and glove use include:
+
+Gloves are worn when contact is anticipated with blood or other body fluids, mucous membranes, non-intact skin, potentially infectious material, or chemicals (such as cleaning solutions).
+Hand hygiene is performed before putting on gloves.
+Remove gloves after caring for a patient. Do not wear the same pair of gloves for the care of more than one patient.
+When wearing gloves, remove gloves and perform hand hygiene during patient care if moving from a contaminated body site to another body site that is not contaminated (including a mucous membrane, non-intact skin, or a medical device within the same patient or the environment). An example of this is performing a wound dressing (non-intact skin) on the abdomen and then performing phlebotomy on the arm.
+Perform hand hygiene after glove removal. It is important to know that hand contamination often occurs during glove removal due to poor technique and also, possibly, as a result of small, undetected holes in gloves. Hands that are not clean when reaching into a box of gloves can spread microorganisms throughout the glove box. This is one reason why hand hygiene should always be performed before putting on and after taking off gloves.
+  
+
+<img
+  src="https://perryjl-ATSU.github.io/assets/glove.jpg" 
+  alt="Alt text"
+  title="Gloved Hand"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+ 
+</details>
 
 ## Gists
 
