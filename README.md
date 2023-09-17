@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "References"
+title: <center>References</center>
 ---
 
 ## Installation
