@@ -1,7 +1,6 @@
 ---
-title: "References"
-permalink: "/about/"
 layout: page
+title: "References"
 ---
 
 ## Installation
