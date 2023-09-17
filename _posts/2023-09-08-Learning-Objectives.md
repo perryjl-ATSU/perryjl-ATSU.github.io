@@ -10,17 +10,17 @@ categories: media
 
 ## Learning Objectives
 
-Demonstrate the correct way to wash hands with soap and water according to the WHO-recommended method.
+Illustrate the appropriate technique for hand hygiene using soap and water in accordance with the World Health Organization's recommended approach.
 
-Discuss key issues and considerations of hand hygiene in a health care facility
+Discuss important challenges and factors relating to hand cleanliness in a medical setting.
 
-Demonstrate the correct way to perform hand hygiene with an alcohol-based hand rub (ABHR) according to the WHO-recommended method.
+Illustrate the appropriate technique for conducting hand hygiene using an alcohol-based hand rub (ABHR) in accordance with the World Health Organization's recommended procedure.
 
 Identify the 5 Moments for Hand Hygiene.
 
-Describe hand hygiene as a critical component of infection prevention and control
+Explain the importance of good hand hygiene while trying to stop the spread of disease.
 
-Discuss glove use and hand hygiene during patient care activities
+Discuss how to use gloves and keep one's hands clean when caring for a patient.
 
 
 ## Learning Activities
@@ -28,44 +28,33 @@ Discuss glove use and hand hygiene during patient care activities
 <details>
   <summary>Demonstration</summary>
   
-  In this video you will observe the proper soap-and-water handwashing technique, as well as proper hand drying.
+  This video demonstrates the correct technique for handwashing using soap and water, as well as appropriate hand-drying methods.
   {% include embed.html url="https://www.youtube.com/embed/IisgnbMfKvI" %}
  
 </details>
 
 <details>
-  <summary>The Purpose of Han Hygiene</summary>
+  <summary>The Purpose of Hand Hygiene</summary>
   
-In the health care environment microorganisms, such as bacteria, viruses and fungi, are transmitted through various routes. If not cleaned at the right moments, using the proper methods, the hands of HCWs play an important role in spreading microorganisms between patients. Timely hand hygiene also prevents contamination of the health care environment (e.g., linens, surfaces, patient care devices). The 5 Moments approach is designed to stop transmission at all of the key moments to keep patients safe.
+Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers don't wash their hands well enough. The goal of the five-situations approach is to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
 
-During patient care, our hands become progressively colonized with microorganisms and potential pathogens. Lack of good hand hygiene increases the risk of contamination, and is a threat to patient safety. The purpose of good hand hygiene is to remove soil, organic material, and transient microorganisms from the hands. It does not eliminate the resident flora that live on the skin.
+Hand cleanliness means removing dirt, dead skin, and temporary germs from the hands while leaving the natural flora alone. If there are infections, washing one's hands in a certain way can help stop them from getting worse and spreading. This could lower the number of health-care-associated illnesses (HAIs), which would save money on treating diseases that could have been avoided, lower the number of people who get sick or die, and lower the number of antibiotics people take, lowering drug resistance.
 
-Hand hygiene is a general term that applies to either handwashing, handrubbing (e.g., using an alcohol-based hand rub), or surgical hand antisepsis. Hand hygiene is a simple but important procedure, yet its importance is often overlooked, even by HCWs. Timely and effective hand hygiene protects the patient, health care workers, and the health care environment from being contaminated by microorganisms that could be harmful pathogens.
+By lowering the amount of people who get HAIs, lowering drug use, and lowering antibiotic resistance, following hand cleanliness guidelines could save lives and money. Staff on the surgery ward must be told of how important it is to clean their hands to keep patients safe and stop the spread of disease. 
 
-By adhering to recommended hand hygiene practices, we can help protect patients by preventing infections from happening in the first place, and from spreading if they are already present. So, something that seems as simple as timely and effective hand hygiene can reduce the number of patients acquiring a health care-associated infection (HAI). Fewer HAIs means fewer resources spent on treating infections that could have been prevented, and ultimately, less morbidity and death. Fewer HAIs also reduces antibiotic use, which contributes to decreased antibiotic resistance. Therefore, hand hygiene is an essential health care intervention that saves both lives and money!
-
-Now that you have learned about the role hand hygiene plays in limiting the spread of microorganisms, you decide to re-emphasize the purpose of hand hygiene with the surgical ward staff.
- 
 </details>
 
 <details>
-  <summary>Cleaning Hands with Alcohol-based Hand Rub</summary>
+  <summary>Proper Hand Cleaning with Alcohol-based Hand Rub </summary>
   
-Alcohol-based hand rub is the preferred choice for hand hygiene if hands are not visibly soiled, because ABHR is more effective in killing microorganisms than plain or antimicrobial soaps and water, and it has other big advantages. The alcohol in ABHR kills microorganisms by denaturing proteins (i.e., they dissolve some microbe components). It also has persistent activity, meaning that it takes longer for microorganisms to repopulate the hands.
-
-Hand hygiene with ABHR has advantages over hand hygiene with soap and water, including:
-
-It takes less time—only 20 to 30 seconds. In a very busy work environment, ABHR can save you time!
-ABHR can be placed directly at the point of care, making it convenient and easy to perform hand hygiene within your clinical workflow.
-Hand hygiene with ABHR does not need sinks, water, or towels—hands are air-dried.
-It is important to note that the active ingredient—alcohol—is flammable, and that you should be careful and make sure any ABHR is stored away from flames.
+Alcohol-based hand rub (ABHR) is a widely used method of hand hygiene due to its effective germ elimination and long-lasting properties. The structure of proteins is altered by ABHR, which helps prevent their inactivation and transfer onto hands. Using ABHR is a convenient option for busy workplaces, as it only takes 20-30 seconds. It does not require additional space, pots, water, or clothing and can be placed directly where care is provided. Alcohol is a highly flammable substance and should always be kept at a safe distance from any open flames. Using ABHR at the point of care could potentially decrease wait times. 
  
 </details>
 
 <details>
   <summary>5 Moments for Hand Hygiene</summary>
   
-Health care workers should perform hand hygiene according to the World Health Organization’s (WHO) 5 Moments for Hand Hygiene. The WHO 5 Moments focuses on contact occurring within the patient zone during the delivery of patient care. It proposes a unified vision for all HCWs, trainers and observers to improve understanding of when to clean hands. It merges all hand hygiene indications recommended by the WHO Guidelines on Hand Hygiene in Health Care and CDC’s Guideline for Hand Hygiene in Health Care Settings into five moments when hand hygiene is required. Importantly, this user- and patient-centred approach aims for ease of use and integration into the natural workflow, which applies across a wide range of care settings and health care professions.
+The importance of hand hygiene in a hospital setting is highlighted by the 5 Moments for Hand Hygiene. The aim of this united vision is to increase awareness among people about the appropriate times to wash their hands in five settings. The strategy aims to prioritize the needs of both users and patients, ensuring effectiveness in various care settings and among healthcare professionals. It also emphasizes seamless integration into existing processes.  
   
 
 <img
@@ -77,16 +66,9 @@ Health care workers should perform hand hygiene according to the World Health Or
 </details>
 
 <details>
-  <summary>Gloves and Hand Hygiene (5 min)</summary>
+  <summary>Gloves and Hand Hygiene</summary>
   
-Glove use is an important part of protecting hands from contamination. If an HCW is wearing gloves, it does NOT mean that hand hygiene can be skipped. In other words, glove use does NOT replace the need for hand hygiene. Considerations for hand hygiene and glove use include:
-
-Gloves are worn when contact is anticipated with blood or other body fluids, mucous membranes, non-intact skin, potentially infectious material, or chemicals (such as cleaning solutions).
-Hand hygiene is performed before putting on gloves.
-Remove gloves after caring for a patient. Do not wear the same pair of gloves for the care of more than one patient.
-When wearing gloves, remove gloves and perform hand hygiene during patient care if moving from a contaminated body site to another body site that is not contaminated (including a mucous membrane, non-intact skin, or a medical device within the same patient or the environment). An example of this is performing a wound dressing (non-intact skin) on the abdomen and then performing phlebotomy on the arm.
-Perform hand hygiene after glove removal. It is important to know that hand contamination often occurs during glove removal due to poor technique and also, possibly, as a result of small, undetected holes in gloves. Hands that are not clean when reaching into a box of gloves can spread microorganisms throughout the glove box. This is one reason why hand hygiene should always be performed before putting on and after taking off gloves.
-  
+To minimize the risk of contracting illnesses, it is recommended to use gloves in addition to regular hand washing. Gloves are necessary to prevent contamination from blood, bodily fluids, mucosal membranes, damaged skin, infectious materials, and chemicals. Prior to interacting with a patient, it is essential to wash hands and wear gloves, which should be properly removed afterward. Using only one pair of gloves per person is insufficient. It is advisable to wash hands when transitioning between uncontaminated areas of the body, such as after performing procedures like phlebotomy on the arm followed by a wound dressing on the stomach. To prevent contamination resulting from improper technique or undetectable cracks in gloves, it is crucial to wash hands regularly after removing them. It is important to clean hands both before and after wearing gloves to prevent the transmission of germs.  
 
 <img
   src="https://perryjl-ATSU.github.io/assets/glove.JPG" 
