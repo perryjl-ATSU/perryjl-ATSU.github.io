@@ -4,6 +4,8 @@ layout: post
 categories: media
 ---
 
+Note. _From How handy is your handwashing-policy_ [Image], by CELA, (2020), CELA (https://www.cela.org.au/publications/amplify!-blog/sep-2018/handwashing-policy)
+
 ![Handy logo](https://perryjl-ATSU.github.io/assets/Handy.jpg)
 
 
