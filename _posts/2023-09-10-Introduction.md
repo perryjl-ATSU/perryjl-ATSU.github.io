@@ -7,6 +7,7 @@ categories: media
 
 ![Semmelweiss logo](https://perryjl-ATSU.github.io/assets/Semmelweis.jpg)
 
+Note. _From It took surprisingly long for doctors to figure out the benefits of hand washing_ [Image], by B. Little, (2020), HISTORY (https://www.history.com/news/hand-washing-disease-infection)
 
 ## The Story of Ignaz Semmelweis
 
