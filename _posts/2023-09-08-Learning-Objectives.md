@@ -5,6 +5,8 @@ layout: post
 categories: media
 ---
 
+Note. _“Accelerate action together” World Health Organization World Hand Hygiene Day, May 5, 2023 SAVE LIVES: Clean Your Hands campaign_ [Image], by (Kilpatrick et al., 2023), American Journal of Infection Control (https://doi.org/10.1016/j.ajic.2023.03.003)
+
 ![objectives logo](https://perryjl-ATSU.github.io/assets/objectives.jpg)
 
 
