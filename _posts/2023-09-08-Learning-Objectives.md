@@ -60,6 +60,8 @@ By lowering the amount of people who get HAIs, lowering drug use, and lowering a
   
 Alcohol sanitizer is a widely used method of hand hygiene due to its effective germ elimination and long-lasting properties. The structure of proteins is altered by alcohol sanitizer, which helps prevent their inactivation and transfer onto hands. Using alcohol sanitizer is a convenient option for busy workplaces, as it only takes 20-30 seconds. It does not require additional space, pots, water, or clothing and can be placed directly where care is provided. Alcohol is a highly flammable substance and should always be kept at a safe distance from any open flames. Using alcohol sanitizers at the point of care could potentially decrease wait times. 
 <br>
+****
+
  
 </details>
 
@@ -90,6 +92,8 @@ To minimize the risk of contracting illnesses, it is recommended to use gloves i
   title="Gloved Hand"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
+****
+
  
 </details>
 
