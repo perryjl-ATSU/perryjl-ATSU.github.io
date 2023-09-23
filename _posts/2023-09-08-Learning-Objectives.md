@@ -95,7 +95,7 @@ To minimize the risk of contracting illnesses, it is recommended to use gloves i
   title="Gloved Hand"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
-_______
+****
 
  
 </details>
