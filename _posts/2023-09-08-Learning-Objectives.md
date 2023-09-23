@@ -29,6 +29,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
 
 <details>
   <summary>Demonstration</summary>
+---
   
   This video demonstrates the correct technique for handwashing using soap and water and appropriate hand-drying methods.
   {% include embed.html url="https://www.youtube.com/embed/IisgnbMfKvI" %}
@@ -37,6 +38,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
 
 <details>
   <summary>The Purpose of Hand Hygiene</summary>
+
   
 Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers do not wash their hands well enough. The goal of the five-situations approach is to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
 
