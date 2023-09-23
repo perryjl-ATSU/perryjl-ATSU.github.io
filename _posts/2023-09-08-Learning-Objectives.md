@@ -29,7 +29,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
 
 <details>
   <summary>Demonstration</summary>
----
+
   
   This video demonstrates the correct technique for handwashing using soap and water and appropriate hand-drying methods.
   {% include embed.html url="https://www.youtube.com/embed/IisgnbMfKvI" %}
