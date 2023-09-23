@@ -51,7 +51,6 @@ By lowering the amount of people who get HAIs, lowering drug use, and lowering a
 <br>  
 
 
-
 <details>
   <summary>Proper Hand Cleaning with Alcohol Sanitizer-based Hand Rub </summary>
   <br>
