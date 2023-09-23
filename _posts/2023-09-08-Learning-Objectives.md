@@ -38,7 +38,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
 
 <details>
   <summary>The Purpose of Hand Hygiene</summary>
-
+  <br>
   
 Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers do not wash their hands well enough. The goal of the five-situations approach is to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
 
@@ -50,6 +50,7 @@ By lowering the amount of people who get HAIs, lowering drug use, and lowering a
 
 <details>
   <summary>Proper Hand Cleaning with Alcohol Sanitizer-based Hand Rub </summary>
+  <br>
   
 Alcohol sanitizer is a widely used method of hand hygiene due to its effective germ elimination and long-lasting properties. The structure of proteins is altered by alcohol sanitizer, which helps prevent their inactivation and transfer onto hands. Using alcohol sanitizer is a convenient option for busy workplaces, as it only takes 20-30 seconds. It does not require additional space, pots, water, or clothing and can be placed directly where care is provided. Alcohol is a highly flammable substance and should always be kept at a safe distance from any open flames. Using alcohol sanitizers at the point of care could potentially decrease wait times. 
  
@@ -57,6 +58,7 @@ Alcohol sanitizer is a widely used method of hand hygiene due to its effective g
 
 <details>
   <summary>5 Moments for Hand Hygiene</summary>
+  <br>
   
 The importance of hand hygiene in a hospital setting is highlighted by the 5 Moments evidence-based approach. The aim of this united vision is to increase awareness among people about the appropriate times to wash their hands in five settings. The strategy aims to prioritize the needs of both users and patients, ensuring effectiveness in various care settings and among healthcare professionals. It also emphasizes seamless integration into existing processes.  
   
@@ -71,6 +73,7 @@ The importance of hand hygiene in a hospital setting is highlighted by the 5 Mom
 
 <details>
   <summary>Gloves and Hand Hygiene</summary>
+  <br>
   
 To minimize the risk of contracting illnesses, it is recommended to use gloves in addition to regular hand washing. Gloves are necessary to prevent contamination from blood, bodily fluids, mucosal membranes, damaged skin, infectious materials, and chemicals. Prior to interacting with a patient, it is essential to wash hands and wear gloves, which should be properly removed afterward. Using only one pair of gloves per person is insufficient. It is advisable to wash hands when transitioning between uncontaminated areas of the body, such as after performing procedures like phlebotomy on the arm followed by a wound dressing on the stomach. To prevent contamination from improper technique or undetectable cracks in gloves, washing hands regularly after removing them is crucial. It is important to clean hands before and after wearing gloves to prevent the transmission of germs.  
 
