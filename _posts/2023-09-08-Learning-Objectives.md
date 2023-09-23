@@ -84,7 +84,10 @@ The importance of hand hygiene in a hospital setting is highlighted by the 5 Mom
   <summary>Gloves and Hand Hygiene</summary>
   <br>
   
-To minimize the risk of contracting illnesses, it is recommended to use gloves in addition to regular hand washing. Gloves are necessary to prevent contamination from blood, bodily fluids, mucosal membranes, damaged skin, infectious materials, and chemicals. Prior to interacting with a patient, it is essential to wash hands and wear gloves, which should be properly removed afterward. Using only one pair of gloves per person is insufficient. It is advisable to wash hands when transitioning between uncontaminated areas of the body, such as after performing procedures like phlebotomy on the arm followed by a wound dressing on the stomach. To prevent contamination from improper technique or undetectable cracks in gloves, washing hands regularly after removing them is crucial. It is important to clean hands before and after wearing gloves to prevent the transmission of germs.  
+To minimize the risk of contracting illnesses, it is recommended to use gloves in addition to regular hand washing. Gloves are necessary to prevent contamination from blood, bodily fluids, mucosal membranes, damaged skin, infectious materials, and chemicals. Prior to interacting with a patient, it is essential to wash hands and wear gloves, which should be properly removed afterward. Using only one pair of gloves per person is insufficient. It is advisable to wash hands when transitioning between uncontaminated areas of the body, such as after performing procedures like phlebotomy on the arm followed by a wound dressing on the stomach. To prevent contamination from improper technique or undetectable cracks in gloves, washing hands regularly after removing them is crucial. It is important to clean hands before and after wearing gloves to prevent the transmission of germs.
+<br>
+
+
 
 <img
   src="https://perryjl-ATSU.github.io/assets/glove.JPG" 
