@@ -46,7 +46,7 @@ Hand cleanliness means removing dirt, dead skin, and temporary germs from the ha
 
 By lowering the amount of people who get HAIs, lowering drug use, and lowering antibiotic resistance, following hand cleanliness guidelines could save lives and money.  
 <br>
-----
+****
 
 
 </details>
