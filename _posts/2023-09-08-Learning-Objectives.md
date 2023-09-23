@@ -45,7 +45,7 @@ Pathogens, viruses, and fungi may spread faster in healthcare settings if health
 Hand cleanliness means removing dirt, dead skin, and temporary germs from the hands while leaving the natural flora alone. If there are infections, washing one's hands in a certain way can help stop them from getting worse and spreading. This could lower the number of health-care-associated illnesses (HAIs), which would save money on treating diseases that could have been avoided, lower the number of people who get sick or die, and lower the number of antibiotics people take, lowering drug resistance.
 
 By lowering the amount of people who get HAIs, lowering drug use, and lowering antibiotic resistance, following hand cleanliness guidelines could save lives and money.  
-
+____
 
 </details>
  
