@@ -40,7 +40,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
   <summary>The Purpose of Hand Hygiene</summary>
   <br>
   
-Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers do not wash their hands well enough. The goal of the five-situations approach is to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
+Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers do not wash their hands well enough. The five-moment approach aims to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
 
 Hand cleanliness means removing dirt, dead skin, and temporary germs from the hands while leaving the natural flora alone. If there are infections, washing one's hands in a certain way can help stop them from getting worse and spreading. This could lower the number of HAIs, which would save money on treating diseases that could have been avoided, lower the number of people who get sick or die, and lower the number of antibiotics people take, lowering drug resistance.
 
