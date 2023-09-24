@@ -16,7 +16,7 @@ Illustrate the appropriate technique for hand hygiene using soap and water in ac
 
 Discuss important challenges and factors relating to hand cleanliness in a medical setting.
 
-Illustrate the appropriate technique for conducting hand hygiene using an alcohol hand sanitizer in accordance with the World Health Organization's recommended procedure.
+Hand hygiene using an alcohol hand sanitizer in accordance with the World Health Organization's recommended procedure.
 
 Identifying the 5 Moments.
 
@@ -42,7 +42,7 @@ Discuss how to use gloves and keep one's hands clean when caring for a patient.
   
 Pathogens, viruses, and fungi may spread faster in healthcare settings if healthcare workers do not wash their hands well enough. The goal of the five-situations approach is to keep patients safe and stop them from being moved at crucial times. Hand cleanliness, like washing one's hands, rubbing one's hands, and using medical hand antisepsis, is very important for keeping patients safe and avoiding illnesses.
 
-Hand cleanliness means removing dirt, dead skin, and temporary germs from the hands while leaving the natural flora alone. If there are infections, washing one's hands in a certain way can help stop them from getting worse and spreading. This could lower the number of health-care-associated illnesses (HAIs), which would save money on treating diseases that could have been avoided, lower the number of people who get sick or die, and lower the number of antibiotics people take, lowering drug resistance.
+Hand cleanliness means removing dirt, dead skin, and temporary germs from the hands while leaving the natural flora alone. If there are infections, washing one's hands in a certain way can help stop them from getting worse and spreading. This could lower the number of HAIs, which would save money on treating diseases that could have been avoided, lower the number of people who get sick or die, and lower the number of antibiotics people take, lowering drug resistance.
 
 By lowering the amount of people who get HAIs, lowering drug use, and lowering antibiotic resistance, following hand cleanliness guidelines could save lives and money.  
 <br>
@@ -75,7 +75,8 @@ The importance of hand hygiene in a hospital setting is highlighted by the 5 Mom
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
- 
+<br>
+Note. _“Accelerate action together” World Health Organization World Hand Hygiene Day, May 5, 2023 SAVE LIVES: Clean Your Hands campaign_ [Image], by (Kilpatrick et al., 2023), American Journal of Infection Control (https://doi.org/10.1016/j.ajic.2023.03.003)
 </details>
 
 <details>
