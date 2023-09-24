@@ -94,8 +94,7 @@ To minimize the risk of contracting illnesses, it is recommended to use gloves i
   title="Gloved Hand"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
-****
-
- 
+Note. _ Glove use & hand hygiene go hand in hand - Surewash_ [Image], by Danielle, (2023), Surewash (https://surewash.com/news/glove-use-hand-hygiene-go-hand-in-hand/)
+**** 
 </details>
 
