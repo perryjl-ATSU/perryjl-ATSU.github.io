@@ -77,6 +77,10 @@ The importance of hand hygiene in a hospital setting is highlighted by the 5 Mom
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
 Note. _‘My Five Moments’: understanding a user-centred approach to hand hygiene improvement within a broader implementation strategy_ [Image], by (Allegranzi et al., 2022), BMJ Quality & Safety (https://doi.org/10.1136/bmjqs-2021-013680)
+<br>
+****
+
+
 </details>
 
 <details>
